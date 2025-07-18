@@ -1,2 +1,2 @@
-# Pr-ctica5-DSM
+# Práctica5-DSM
 Juan José Pérez Muñoz - PM230897
